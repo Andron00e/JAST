@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Implementation details
 
-Our work defends against the Model Inversion attack from ["Unsplit" (Erdogan et al., 2022)](https://arxiv.org/abs/2108.09033) ([code](https://github.com/ege-erdogan/unsplit))and Feature-Space-Hijacking attack (FSHA) from ["Unleashing the Tiger" (Pasquini et al., 2021)](https://arxiv.org/abs/2012.02670) ([code](https://github.com/pasquini-dario/SplitNN_FSHA)).
+In our code, we consider the defense against the Model Inversion attack from ["UnSplit" (Erdogan et al., 2022)](https://arxiv.org/abs/2108.09033) ([code](https://github.com/ege-erdogan/unsplit)) and Feature-Space-Hijacking attack (FSHA) from ["Unleashing the Tiger" (Pasquini et al., 2021)](https://arxiv.org/abs/2012.02670) ([code](https://github.com/pasquini-dario/SplitNN_FSHA)).
 
 In both cases, the necessary hyperparameters are required, we list them below:
 
