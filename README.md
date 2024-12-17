@@ -1,4 +1,5 @@
 # Supplementary code for "Just a Simple Transformation is Enough for Data Protection in Vertical Federated Learning"
+[![arXiv](https://img.shields.io/badge/arXiv-2401.06766-b31b1b.svg)](https://arxiv.org/abs/2412.11689)
 
 This code comes jointly with reference:
 
