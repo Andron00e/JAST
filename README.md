@@ -43,3 +43,16 @@ Below, we describe the changes for the two mentioned settings.
     - We also conducted an experiments on the DP defense for the CIFAR10 dataset, which we report in Table 3.  For these experiments, please refer to the ```additional_dp_experiments.ipynb```. We used ```n_epochs=50``` and ```epsilon```, ```delta``` that result in ```sigma=0.25``` for CIFAR10.
 
 **We believe the details provided are clear enough to reproduce the main findings of our paper.**
+
+
+```bib
+@misc{semenov2024justsimpletransformationdata,
+      title={Just a Simple Transformation is Enough for Data Protection in Vertical Federated Learning}, 
+      author={Andrei Semenov and Philip Zmushko and Alexander Pichugin and Aleksandr Beznosikov},
+      year={2024},
+      eprint={2412.11689},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2412.11689}, 
+}
+```
